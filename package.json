@@ -1,0 +1,17 @@
+{
+  "name": "releasejs",
+  "version": "1.0.0",
+  "description": "Script for automating release versioning based on semver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "release"
+  ],
+  "dependencies": {
+    "prompt-confirm": "^2.0.4"
+  },
+  "author": "Alex Talha",
+  "license": "ISC"
+}
