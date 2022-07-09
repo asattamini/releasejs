@@ -1,6 +1,6 @@
 {
   "name": "releasejs",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Script for automating release versioning based on semver",
   "main": "index.js",
   "scripts": {
